@@ -72,20 +72,27 @@ Run the App
 npm run dev
 ```
 👤 Demo Credentials
+
 Admin: admin@medicore.com / admin123
 
 Doctor: dr.sarah@medicore.com / doctor123
 
 Patient: patient@medicore.com / patient123
 
+---
+
 🔐 Security Highlights
+
 JWT token-based access
 
 Encrypted passwords with bcrypt
 
 Role-based access control
 
+---
+
 🌐 Sample API Routes:
+
 Method	Endpoint	Description
 
 POST	/api/auth/register	Register a user
@@ -96,7 +103,10 @@ GET	/api/doctors	Get all doctors
 
 POST	/api/appointments	Book an appointment
 
+---
+
 📈 Future Scope
+
 📧 Email / SMS notifications
 
 📹 Video consultations
